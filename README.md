@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anas El kadmi</h1>
 <h3 align="center">A passionate web developer from Morocco</h3>
 
-- 🌱 I’m currently learning **Node js**
+- 🔭 I’m currently working on **young soccer talents platform**
+
+- 🌱 I’m currently learning **Nodejs**
 
 - 📫 How to reach me **anas.elkadmi.2008@gmail.com**
+
+- ⚡ Fun fact **DO IT AGAIN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
