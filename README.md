@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anass kadmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anass kadmi" height="30" width="40" /></a>
-<a href="https://fb.com/anass el kadmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anass el kadmi" height="30" width="40" /></a>
-<a href="https://instagram.com/anas1n1s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anas1n1s" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anass-kadmi-81a18521a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anass kadmi" height="30" width="40" /></a>
+<a href="https://www.facebook.com/anass.Elkadmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anass el kadmi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/anas1n1s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anas1n1s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
